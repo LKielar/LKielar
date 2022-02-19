@@ -1,13 +1,25 @@
 ### Hi there 👋
 
-What I have learned so far..
+////What I have learned so far..
 Html, Css, Bem, Sass, gulp, JS basics, UI/UX, Seo, React fundamentals.
 
-And currently learning vanilla JS :thumbsup:
+And currently learning vanilla JS :thumbsup: ///
 
 
-So here is my first website Created :fire:
+Here is my first website Created :fire:
 https://lapassionhair.co.uk
+
+I have used the following technologies:
+
+* HTML
+* Scss
+* BEM
+* JavaScript 
+* Gulp
+
+Additional:
+* SlickJs carousel library
+* PHP - mail function
 
 
 <!--
