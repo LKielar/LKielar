@@ -3,7 +3,7 @@
 ////What I have learned so far..
 Html, Css, Bem, Sass, gulp, JS basics, UI/UX, Seo, React fundamentals.
 
-And currently learning vanilla JS :thumbsup: ///
+And currently working on vanilla JS :thumbsup: ///
 
 
 Here is my first website Created :fire:
