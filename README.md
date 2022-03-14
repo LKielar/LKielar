@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ////What I have learned so far..
-Html, Css, Bem, Sass, gulp, JS basics, UI/UX, Seo, React fundamentals.
+Html, Css, Bem, Sass, gulp, JavaScript, UI/UX, Seo, React fundamentals.
 
 And currently working on vanilla JS :thumbsup: ///
 
