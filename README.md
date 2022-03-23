@@ -6,7 +6,7 @@ Html, Css, Bem, Sass, gulp, JavaScript, UI/UX, Seo, React fundamentals.
 And currently working on vanilla JS :thumbsup: ///
 
 
-Here is my first website Created :fire:
+**Here is my first website Created** :fire:
 https://lapassionhair.co.uk
 
 I have used the following technologies:
